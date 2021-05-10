@@ -6,4 +6,6 @@ Anyway just download the file and execute it by opening it in your terminal (dep
 
 It's simply gonna sync your onedrive and a folder created in /home on your computer (so you need to configure onedrive package before ofc)
 
+05/10/21 edit : it's still in french only for the moment
+
 Thanks for downloading !
